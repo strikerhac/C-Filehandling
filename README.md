@@ -1,4 +1,4 @@
-# C-Filehandling
+# C++-Filehandling
 C++ File handling Readme file:
 The main function contains a switch to add, delete and display records in a file named database.txt.
 Add: The credentials are taken from the user and stored in a single long string. To add the record ofstream is used to open the file in append mode to prevent overwriting. By using “file << line << endl” line string is being appended in the file. After that the file is closed.
