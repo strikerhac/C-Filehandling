@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538836034 source:f:\semester 5\advanced programming\labs\filehandling\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,2 @@
+{RegistrationNo=[174720];Name=[sameer];Class=[BSCS-6c];Month=[oct];Fee=[12345];}
+{RegistrationNo=[174351];Name=[qaari];Class=[bscs-6c];Month=[oct];Fee=[12345];}
